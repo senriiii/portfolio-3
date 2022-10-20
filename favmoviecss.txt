@@ -1,0 +1,26 @@
+<style>
+
+h1,h2{
+
+color:blue;
+
+}
+body{
+background-color:#80ced6;
+}
+
+
+img{
+border:1px solid;
+border-color:red;
+
+}
+
+p{
+font-family:"Times New Roman";
+color:green;
+}
+
+
+
+</style>

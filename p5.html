@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>p5</title>
+	<script type="text/javascript">
+		var principal = 1000;
+		var interest = 5;
+		n = prompt("number of years: ");
+		for(i = 1 ; i<=n ; i++){
+		var amount = ((principal * interest * i)/100)+principal;
+		alert("The amount after "+i+" year: " + amount);
+		principal = amount;
+		}
+	</script>
+</head>
+</html>

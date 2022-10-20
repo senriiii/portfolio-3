@@ -1,0 +1,52 @@
+h1,h3{
+color:brown;
+margin-bottom:0px;
+background-color:#bbab9b;
+padding:8px;
+border-color:#4f3222;
+
+}
+
+*{
+list-style:none;
+box-sizing:border-box;
+}
+
+p em{
+font-family:"Courier New";
+font-size:150%;
+}
+
+nav{
+	
+	background:#dbceb0;
+	
+
+}
+
+nav ul li a{
+color:black;
+font-weight:heavy;
+display:inline-block;}
+
+nav ul li{
+
+display:inline-block;
+line-height:20px;
+margin:0px  10px 3px;
+font-size:150%;
+
+}
+
+marquee ol li{
+
+font-size:150%;
+font-weight:heavy;
+
+
+
+}
+table, td, th {
+  border: 1px solid #563f46;
+  border-style: ridge;
+}

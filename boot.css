@@ -1,0 +1,24 @@
+.a{
+height:200px;
+max-height:400px;
+text-align: center;
+background-color:purple;
+margin-top:30%;
+
+}
+.b{
+height:100px;
+background-color:pink;
+}
+.box{
+height:45rem;
+width:50rem;
+background-color:#b0aac0;
+margin-left:25%;
+box-shadow: 20px 50px 8px  #e0e2e4;
+}
+.box h1{
+text-align:center;
+background-color:rebeccapurple;
+
+}
